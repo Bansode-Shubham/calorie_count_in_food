@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SnapCalorie",
+  "description": "Instantly analyze food images to get calorie counts and macronutrient breakdowns using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
